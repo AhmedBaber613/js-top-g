@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @js-top-g (My real name is Ahmed)
-- 👀 I’m interested in React
+- 👀 I’m interested in TailwindCss
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on Go
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Loves Golang and Neovim
+- ⚡ Fun fact: Loves javascript and Css
 
 <!---
 js-top-g/js-top-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
